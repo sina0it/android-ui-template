@@ -1,22 +1,42 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+📱 قالب رابط کاربری برنامه اندروید
 
-# Run and deploy your AI Studio app
+یک قالب مدرن و زیبا برای طراحی رابط کاربری اپلیکیشن‌های اندرویدی، مناسب برای توسعه‌دهندگانی که می‌خواهند یک ظاهر آماده و قابل شخصی‌سازی برای برنامه خود داشته باشند.
 
-This contains everything you need to run your app locally.
+✨ امکانات
 
-View your app in AI Studio: https://ai.studio/apps/afd598cd-975a-4fb0-a174-fc7b14105891
+- 📱 طراحی مناسب برای دستگاه‌های اندرویدی
+- 🎨 رابط کاربری مدرن و جذاب
+- 🧩 ساختار قابل شخصی‌سازی
+- 🌙 پشتیبانی از حالت تاریک
+- 📐 طراحی واکنش‌گرا برای اندازه‌های مختلف صفحه
+- 🚀 ساختار مناسب برای توسعه و اضافه کردن قابلیت‌های جدید
+- 🔐 صفحات آماده رابط کاربری احراز هویت
+- 🔢 صفحه آماده ورود کد تأیید (OTP)
+- 👤 صفحات مربوط به حساب کاربری
+- 📊 رابط کاربری داشبورد
 
-## Run Locally
+🎯 هدف پروژه
 
-**Prerequisites:**  [Android Studio](https://developer.android.com/studio)
+این پروژه فقط یک قالب رابط کاربری (UI Template) است و قابلیت‌های اصلی برنامه مانند سرور، دیتابیس، ارسال پیامک یا سیستم احراز هویت واقعی در آن پیاده‌سازی نشده است.
 
+هدف این پروژه فراهم کردن یک ظاهر آماده برای توسعه‌دهندگان اندروید است تا بتوانند قابلیت‌های موردنظر خود را به آن اضافه کنند.
 
-1. Open Android Studio
-2. Select **Open** and choose the directory containing this project
-3. Allow Android Studio to fix any incompatibilities as it imports the project.
-4. Create a file named `.env` in the project directory and set `GEMINI_API_KEY` in that file to your Gemini API key (see `.env.example` for an example)
-5. Remove this line from the app's `build.gradle.kts` file: `signingConfig = signingConfigs.getByName("debugConfig")`
-6. Run the app on an emulator or physical device
-7. If you have already published your app in AI Studio, please [request upload key reset](https://support.google.com/googleplay/android-developer/answer/9842756#zippy=%2Crequest-an-upload-key-reset) in Google Play Console.
+🛠️ قابلیت شخصی‌سازی
+
+می‌توانید بخش‌های مختلف قالب را متناسب با پروژه خود تغییر دهید، از جمله:
+
+- رنگ‌بندی
+- لوگو و آیکون‌ها
+- فونت
+- متن‌ها
+- صفحات برنامه
+- دکمه‌ها و کامپوننت‌ها
+- ساختار و ظاهر داشبورد
+
+📸 پیش‌نمایش
+
+در این بخش تصاویر صفحات مختلف قالب قرار داده می‌شود.
+
+🚀 استفاده
+
+پروژه را دریافت کرده و آن را در محیط توسعه اندروید خود باز کنید، سپس می‌توانید رابط کاربری را متناسب با نیاز پروژه خود توسعه دهید.
