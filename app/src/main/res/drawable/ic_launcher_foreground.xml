@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center Luxury Hexagon Shield -->
+    <path
+        android:fillColor="#D90429"
+        android:pathData="M54,20 L82,35 L82,67 L54,88 L26,67 L26,35 Z" />
+    
+    <!-- Gold Accent Border -->
+    <path
+        android:fillColor="#FFD166"
+        android:pathData="M54,28 L74,39 L74,63 L54,78 L34,63 L34,39 Z" />
+        
+    <!-- Center Luxury Bag -->
+    <path
+        android:fillColor="#0D1B2A"
+        android:pathData="M45,43 C45,38 49,34 54,34 C59,34 63,38 63,43 L67,43 C69,43 70.5,44.5 70.5,46.5 L69,69 C69,71 67.5,72.5 65.5,72.5 L42.5,72.5 C40.5,72.5 39,71 39,69 L37.5,46.5 C37.5,44.5 39,43 41,43 L45,43 Z M48.5,43 L59.5,43 C59.5,40 57,37.5 54,37.5 C51,37.5 48.5,40 48.5,43 Z" />
+</vector>

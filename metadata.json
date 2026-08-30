@@ -1,0 +1,6 @@
+{
+  "name": "سینا کالا",
+  "description": "فروشگاه اینترنتی مدرن، لوکس و حرفه‌ای سینا کالا - خرید هوشمند، انتخاب مطمئن",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
