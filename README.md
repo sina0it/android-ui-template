@@ -34,6 +34,7 @@
 - ساختار و ظاهر داشبورد
 
 📸 پیش‌نمایش
+<img width="640" height="640" alt="photo_5809998404325677098_x" src="https://github.com/user-attachments/assets/771b8fe1-832f-4848-b033-558f9a41cc6a" />
 
 در این بخش تصاویر صفحات مختلف قالب قرار داده می‌شود.
 
