@@ -34,9 +34,18 @@
 - ساختار و ظاهر داشبورد
 
 📸 پیش‌نمایش
-<img width="640" height="640" alt="photo_5809998404325677098_x" src="https://github.com/user-attachments/assets/771b8fe1-832f-4848-b033-558f9a41cc6a" />
 
-در این بخش تصاویر صفحات مختلف قالب قرار داده می‌شود.
+<img width="720" height="1476" alt="Screenshot_۲۰۲۶۰۸۳۰-۱۶۴۸۴۲" src="https://github.com/user-attachments/assets/f6c100d3-d4d1-4b64-a415-8d494b3fea1b" />
+<img width="720" height="1442" alt="Screenshot_۲۰۲۶۰۸۳۰-۱۶۴۸۰۶" src="https://github.com/user-attachments/assets/8d942b8a-1a63-4c69-92fb-65488477c0b1" />
+<img width="720" height="1472" alt="Screenshot_۲۰۲۶۰۸۳۰-۱۶۴۸۰۲" src="https://github.com/user-attachments/assets/f1163947-7354-4ec4-a440-e7435670d109" />
+<img width="720" height="1470" alt="Screenshot_۲۰۲۶۰۸۳۰-۱۶۴۷۵۱" src="https://github.com/user-attachments/assets/e10dd7fc-5035-4bf7-b1ba-a7c60166c78f" />
+<img width="720" height="1465" alt="Screenshot_۲۰۲۶۰۸۳۰-۱۶۴۷۲۹" src="https://github.com/user-attachments/assets/f8ee2479-c633-4b47-99a1-2c6e3a6a8bac" />
+<img width="720" height="1467" alt="Screenshot_۲۰۲۶۰۸۳۰-۱۶۴۷۲۲" src="https://github.com/user-attachments/assets/564a3915-fead-4ae5-8d6a-bdb3e450df83" />
+<img width="720" height="1473" alt="Screenshot_۲۰۲۶۰۸۳۰-۱۶۴۷۰۷" src="https://github.com/user-attachments/assets/9e80f5f4-7d3e-4abb-b927-30f462cf35e0" />
+<img width="720" height="1467" alt="Screenshot_۲۰۲۶۰۸۳۰-۱۶۴۷۰۱" src="https://github.com/user-attachments/assets/13c503cb-6925-44ea-bf7b-24cf12189298" />
+<img width="720" height="1466" alt="Screenshot_۲۰۲۶۰۸۳۰-۱۶۴۶۵۵" src="https://github.com/user-attachments/assets/5f6157cd-6767-4610-9d75-9929a562c58d" />
+
+
 
 🚀 استفاده
 
